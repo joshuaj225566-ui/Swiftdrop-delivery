@@ -1,0 +1,5 @@
+body { font-family: Arial; padding:20px; background:#f5f5f5;}
+header { background:#0084ff; color:white; padding:15px; border-radius:8px;}
+.track-box { background:white; padding:20px; margin-top:20px; border-radius:8px;}
+input { width:80%; padding:10px; margin-bottom:10px;}
+button { padding:10px 20px;}
