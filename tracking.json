@@ -1,0 +1,41 @@
+{
+  "SD202511260983": {
+    "status": "🏡 parcel received at SWiftDrop facility",
+    "location": "Madrid Spain",
+    "stage": 4,
+    "stages": [
+      "Order Received",
+      "Package Processed",
+      "In Transit",
+      "Arrived in Destination Country",
+      "Out for Delivery",
+      "Delivered"
+    ]
+  },
+
+  "JD0002123456789012": {
+    "status": "In Transit",
+    "location": "Germany",
+    "stage": 2,
+    "stages": [
+      "Order Received",
+      "Package Processed",
+      "In Transit",
+      "Out for Delivery",
+      "Delivered"
+    ]
+  },
+
+  "LE988776655DE": {
+    "status": "Package Processed",
+    "location": "Italy",
+    "stage": 1,
+    "stages": [
+      "Order Received",
+      "Package Processed",
+      "In Transit",
+      "Out for Delivery",
+      "Delivered"
+    ]
+  }
+}
